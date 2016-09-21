@@ -9,9 +9,9 @@ public class Application
 {
     Pool[] localTasks = new Pool[];
     User[] localContacts = new User[];
-    Notifications[] localNotifications = new Notifications[];
+    Notification[] localNotifications = new Notification[];
     User localUser = new User;
 
-    
+
 
 }
