@@ -1,7 +1,17 @@
 package com.example.jr.hausmatesapp;
 
+import android.support.v4.util.Pools;
+
 /**
  * Created by thomas on 21/09/16.
  */
-public class Application {
+public class Application
+{
+    Pool[] localTasks = new Pool[];
+    User[] localContacts = new User[];
+    Notifications[] localNotifications = new Notifications[];
+    User localUser = new User;
+
+    
+
 }
