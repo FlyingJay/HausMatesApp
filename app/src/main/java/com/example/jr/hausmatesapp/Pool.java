@@ -19,7 +19,32 @@ public class Pool
     }
 
     void incrementScore(int user)
-public class Pool {
+    {
+
+    }
+
+    void pledgeMoney(int user, double amount)
+    {
+
+    }
+
+    void payWinnings()
+    {
+
+    }
+
+    void sendConfirmJobNotify()
+    {
+
+    }
+
+    void changeInfo(String[] name, boolean confirm, double minPledge)
+    {
+
+    }
+
+    void leavePool()
+    {
 
     }
 
