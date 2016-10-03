@@ -7,10 +7,10 @@ import android.support.v4.util.Pools;
  */
 public class Application
 {
-    Pool[] localTasks = new Pool[];
-    User[] localContacts = new User[];
-    Notification[] localNotifications = new Notification[];
-    User localUser = new User;
+    static Pool[] localTasks = new Pool[];
+    static User[] localContacts = new User[];
+    static Notification[] localNotifications = new Notification[];
+    static User localUser = new User;
 
 
 
